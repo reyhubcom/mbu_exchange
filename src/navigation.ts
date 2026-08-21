@@ -115,7 +115,7 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'MBU.Staking', href: 'https://github.com/arthelokyo/astrowind', target: '_blank' }],
+  actions: [{ text: 'MBU.Staking', href: 'https://linktr.ee/mbustaking', target: '_blank' }],
 };
 
 export const footerData = {
